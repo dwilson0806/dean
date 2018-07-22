@@ -9,3 +9,6 @@ def subtract ()
 def newMasterFunction ()
 
 def newLocalFunction()
+
+
+def newFunctionAgain()
